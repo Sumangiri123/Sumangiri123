@@ -7,6 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=Sumangiri123&label=Profile%20views&color=0e75b6&style=flat" alt="Sumangiri123" />
 </p>
 
+---
+
+### 👨‍🎓 About Me
 - 🎓 M.Sc. Data Science student at **Vellore Institute of Technology (VIT), Chennai**
 - 🧮 Graduate in **Mathematics** from **Calcutta University**
 - 🔭 Currently working on **Machine Learning, Deep Learning, NLP, and LLM-based systems**
@@ -14,81 +17,63 @@
 - 💻 Skilled in **Python, SQL, Machine Learning, Deep Learning, EDA**
 - 🤖 Hands-on experience with **RAG pipelines, Transformers, BERT, FAISS**
 - 💬 Ask me about **Machine Learning, NLP, Deep Learning, Python, Data Science**
-- 📫 How to reach me: **sumangiri1964@gmail.com**
+- 📫 Reach me at **sumangiri1964@gmail.com**
 
 ---
 
-🚀 **Highlighted Projects**
-- **AI-Driven Academic Chatbot** (RAG, FAISS, Gemini API)
-- **Fake News Detection Browser Extension** (BERT, Flask, JavaScript)
-- **Customer Segmentation Tool** (K-Means, Streamlit, Plotly)
+### 🚀 Highlighted Projects
+- **AI-Driven Academic Chatbot** — RAG, FAISS, Gemini API  
+- **Fake News Detection Browser Extension** — BERT, Flask, JavaScript  
+- **Customer Segmentation Tool** — K-Means, Streamlit, Plotly  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suman-giri" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman giri" height="30" width="40" />
+<a href="https://www.linkedin.com/in/suman-giri" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://github.com/Sumangiri123" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/Sumangiri123" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="sklearn" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-</a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-</a>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumangiri123&show_icons=true&locale=en&layout=compact" alt="Sumangiri123" />
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumangiri123&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumangiri123&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumangiri123&show_icons=true&locale=en" alt="Sumangiri123" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangiri123&theme=tokyonight"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangiri123" alt="Sumangiri123" />
-</p>
-<!--
-**Sumangiri123/Sumangiri123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏷️ Skill Tags
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-red)
+![NLP](https://img.shields.io/badge/NLP-Advanced-purple)
+![LLMs](https://img.shields.io/badge/LLMs-Research-orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
