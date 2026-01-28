@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Suman Giri</h1>
 <h3 align="center">M.Sc. Data Science student at VIT Chennai | Aspiring Data Scientist & AI Engineer</h3>
 
