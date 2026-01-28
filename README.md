@@ -30,7 +30,7 @@
 
 ---
 
-## 🔗 Connect with me:
+## 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/suman-giri-595078189" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
